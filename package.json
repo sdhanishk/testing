@@ -1,0 +1,26 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Just getting the hang of it",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdhanishk/testing.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Dhanish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdhanishk/testing/issues"
+  },
+  "homepage": "https://github.com/sdhanishk/testing#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
